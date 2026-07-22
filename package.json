@@ -46,7 +46,7 @@
     "@biomejs/biome": "2.5.5",
     "@tailwindcss/typography": "0.5.20",
     "@tailwindcss/vite": "4.3.3",
-    "@vitejs/plugin-react": "6.0.3",
+    "@vitejs/plugin-react": "6.0.4",
     "cssnano": "8.0.2",
     "cz-git": "1.13.1",
     "stylelint": "17.14.1",
